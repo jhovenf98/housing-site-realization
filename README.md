@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/header.svg" width="100%" alt="Will It Get Built? Spatial ML on San Diego Housing Element sites. Points colored by predicted probability; testing on synthetic data."></p>
+
 # Will It Get Built? Predicting Which Housing Element Sites Are Realized
 
 > 🌐 [Interactive site explorer](https://johanarisato.github.io/geoai-for-cities/explore/housing.html) · [GeoAI for Cities](https://johanarisato.github.io/geoai-for-cities/) · [Portfolio](https://johanarisato.github.io/Johan.github.io/)
