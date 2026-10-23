@@ -2,7 +2,7 @@
 
 # Will It Get Built? Predicting Which Housing Element Sites Are Realized
 
-> 🌐 [Interactive site explorer](https://johanarisato.github.io/geoai-for-cities/explore/housing.html) · [GeoAI for Cities](https://johanarisato.github.io/geoai-for-cities/) · [Portfolio](https://johanarisato.github.io/Johan.github.io/)
+> 🌐 [Interactive site explorer](https://jhovenf98.github.io/geoai-for-cities/explore/housing.html) · [GeoAI for Cities](https://jhovenf98.github.io/geoai-for-cities/) · [Portfolio](https://jhovenf98.github.io/Johan.github.io/)
 
 **Johan Fernandez** · Urban data science · Spatial machine learning · Housing policy
 
@@ -163,11 +163,11 @@ tests/                     unit tests
 
 ## Shared database
 
-The sites and approvals tables are also layers in **[geoai-cities-db](https://github.com/JohanArisato/geoai-cities-db)** (`sd_housing_sites`, `sd_housing_permits`), joined to San Diego's 124 neighborhoods and to CurbCall's resident reports. That makes cross-project questions one query away, for example: do the sites the city counts on for new homes sit in neighborhoods where residents report the most unresolved sidewalk, lighting and flooding problems?
+The sites and approvals tables are also layers in **[geoai-cities-db](https://github.com/jhovenf98/geoai-cities-db)** (`sd_housing_sites`, `sd_housing_permits`), joined to San Diego's 124 neighborhoods and to CurbCall's resident reports. That makes cross-project questions one query away, for example: do the sites the city counts on for new homes sit in neighborhoods where residents report the most unresolved sidewalk, lighting and flooding problems?
 
 ## Part of
 
-[GeoAI for Cities](https://github.com/JohanArisato/geoai-for-cities) · [Who Gets the Shade?](https://github.com/JohanArisato/who-gets-the-shade) · [CurbCall](https://github.com/JohanArisato/curbcall)
+[GeoAI for Cities](https://github.com/jhovenf98/geoai-for-cities) · [Who Gets the Shade?](https://github.com/jhovenf98/who-gets-the-shade) · [CurbCall](https://github.com/jhovenf98/curbcall)
 
 ## License
 
